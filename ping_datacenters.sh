@@ -2,20 +2,28 @@
 
 # ==============================================
 #    Script: Ping Datacenters
-#    Version: 1.2
+#    Version: 1.3
 #    Author: A.Zolfaghar
 #    Date: 2024-07-11
 #    Description: This script pings IP addresses
 #                 of selected datacenters and
 #                 displays the packet loss.
+#    Change log:
+#       v1.2: 2024-07-11
+#             - fix bug
+#       v1.3: 2024-08-19
+#             - Remove Asiatech & Asiatech4 rmoved
+#             - Update Iranian
+#             - Fix wrong name for Turkey & CA-OVH
 # ==============================================
 
 # Display a signature or welcome message
 echo "=============================================="
 echo "    Welcome to the Ping Datacenters Script"
 echo "    Author: A.Zolfaghar"
-echo "    Version: 1.2"
+echo "    Version: 1.3"
 echo "    Date: 2024-07-11"
+echo "    Update Info: V1.3 on 2024-08-19"
 echo "=============================================="
 echo ""
 
